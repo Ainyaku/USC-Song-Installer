@@ -23,7 +23,7 @@ Warning: In the text file, make sure the directory does not include extra spaces
 (it is okay for the folder names to have spaces though). Also make sure it does not end in a \
 ```
 
-3\. Now open `!Install.bat` and your done! Make sure no errors appear in the cmd window before you click _Ok._ If an error stays there, [refer to the _issues_ section](https://github.com/Drewol/unnamed-sdvx-clone) before continuing.
+3\. Now open `!Install.bat` and your done! Make sure no errors appear in the cmd window before you click _Ok._ If an error stays there, [refer to the _issues_ section](https://github.com/Ainyaku/USC-Song-Installer/#issues) before continuing.
 
 ![image](https://user-images.githubusercontent.com/87048351/163702652-326b4592-f17d-4669-b8ab-cc85a81429ac.png)
 
@@ -53,7 +53,7 @@ Note: If you are on Windows 11, you must click "Show more options" before you ca
 <img width="224" alt="Screenshot 2022-04-17 002858" src="https://user-images.githubusercontent.com/87048351/163703042-7ef9ce61-6824-41cc-a768-475d670c3182.png">
 
 
-Once again, if an error stays in the cmd window [refer to the _issues_ section](https://github.com/Drewol/unnamed-sdvx-clone) before continuing.
+Once again, if an error stays in the cmd window [refer to the _issues_ section](https://github.com/Ainyaku/USC-Song-Installer/#issues) before continuing.
 
 Now, to check if the install worked, open USC and the song should appear.
 
@@ -70,7 +70,7 @@ files will appear.
 
 ## Updating
 
-To update the installer, [uninstall the old tool](https://github.com/Drewol/unnamed-sdvx-clone) and [reinstall the updated version](https://github.com/Drewol/unnamed-sdvx-clone) and you should be good to go. If you think you may get confused you can delete the files for the old version as they are no longer needed. You can check if you have the latest version by comparing what is in the `Version.txt` file on your computer with [the first release shown here.](https://github.com/Ainyaku/USC-Song-Installer/releases/new)
+To update the installer, [uninstall the old tool](https://github.com/Ainyaku/USC-Song-Installer/#uninstalling) and [reinstall the updated version](https://github.com/Ainyaku/USC-Song-Installer/#installation) and you should be good to go. If you think you may get confused you can delete the files for the old version as they are no longer needed. You can check if you have the latest version by comparing what is in the `Version.txt` file on your computer with [the first release shown here.](https://github.com/Ainyaku/USC-Song-Installer/releases/new)
 
 ![image](https://user-images.githubusercontent.com/87048351/163703749-8513f75d-50ae-455c-ab53-261df78b0f73.png)
 
@@ -85,7 +85,9 @@ If there is an error message staying in the cmd window when opening the .bat fil
 ```
 Note: If you see something flash in the window while it is running, that is normal. 
 Also, if you see a little loading bar while you are installing a song, this is normal too, just wait for it to finish.
+P.S. A window saying that the song was installed or that the install/uninstall of the tool was successful will always appear even
+if it failed. If it actualy worked there should be nothing in the cmd window when it is finished.
 ```
 ![Untitled presentation (2)](https://user-images.githubusercontent.com/87048351/163704201-842dc088-5a5c-4e45-aa85-fa514f9cabd3.png)
 
-First, copy everything in the cmd window then click _Ok._ Try [reinstalling the tool](https://github.com/Drewol/unnamed-sdvx-clone) to see if that may fix it. If that does not fix it, [create a new issue here](https://github.com/Ainyaku/USC-Song-Installer/issues) and make sure to include all of the text that you copied from the cmd window. I will make sure to attempt to help you as soon as possible (even though i dont know what im doing either).
+First, copy everything in the cmd window then click _Ok._ Try opening `!Install.bat` again to see if that fixes it. If that does not fix it, [create a new issue here](https://github.com/Ainyaku/USC-Song-Installer/issues) and make sure to include all of the text that you copied from the cmd window. I will make sure to attempt to help you as soon as possible (even though i dont know what im doing either).
