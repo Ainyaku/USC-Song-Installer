@@ -90,4 +90,4 @@ if it failed. If it actualy worked there should be nothing in the cmd window whe
 ```
 ![Untitled presentation (2)](https://user-images.githubusercontent.com/87048351/163704201-842dc088-5a5c-4e45-aa85-fa514f9cabd3.png)
 
-First, copy everything in the cmd window then click _Ok._ Try opening `!Install.bat` again to see if that fixes it. If that does not fix it, [create a new issue here](https://github.com/Ainyaku/USC-Song-Installer/issues) and make sure to include all of the text that you copied from the cmd window. I will make sure to attempt to help you as soon as possible (even though i dont know what im doing either).
+First, copy everything in the cmd window then click _Ok._ Try opening `!Install.bat` again to see if that fixes it. If that does not fix it, [create a new issue here](https://github.com/Ainyaku/USC-Song-Installer/issues/new) and make sure to include all of the text that you copied from the cmd window. I will make sure to attempt to help you as soon as possible (even though i dont know what im doing either).
