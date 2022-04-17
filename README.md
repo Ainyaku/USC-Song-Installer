@@ -62,7 +62,7 @@ Now, to check if the install worked, open USC and the song should appear.
 To uninstall the tool, simply open `!Uninstall.bat` and make sure no errors appear again. Once you do this, _USC Song Folder_ will no longer appear in the _Send to_ menu. The songs you installed using this tool **will not** be uninstalled.
 
 ```
-Hint: If you ever forget where the these .bat files are, type 
+Tip: If you ever forget where the these .bat files are, type 
 %USERPROFILE%\AinyakuUSCSongInstallerFileLocation.txt into the address bar in file explorer
 (the same place you copied the song directory) and a window with the directory to the .bat
 files will appear.
